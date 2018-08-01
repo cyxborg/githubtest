@@ -26,5 +26,3 @@ test7
 test7-2
 
 test8
-
-test8-2
